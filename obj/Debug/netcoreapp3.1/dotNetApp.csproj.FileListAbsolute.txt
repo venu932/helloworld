@@ -1,0 +1,12 @@
+/Users/vinhdoan/challenges/dotNetApp/bin/Debug/netcoreapp3.1/dotNetApp.deps.json
+/Users/vinhdoan/challenges/dotNetApp/bin/Debug/netcoreapp3.1/dotNetApp.runtimeconfig.json
+/Users/vinhdoan/challenges/dotNetApp/bin/Debug/netcoreapp3.1/dotNetApp.runtimeconfig.dev.json
+/Users/vinhdoan/challenges/dotNetApp/bin/Debug/netcoreapp3.1/dotNetApp.dll
+/Users/vinhdoan/challenges/dotNetApp/bin/Debug/netcoreapp3.1/dotNetApp.pdb
+/Users/vinhdoan/challenges/dotNetApp/obj/Debug/netcoreapp3.1/dotNetApp.csprojAssemblyReference.cache
+/Users/vinhdoan/challenges/dotNetApp/obj/Debug/netcoreapp3.1/dotNetApp.csproj.CoreCompileInputs.cache
+/Users/vinhdoan/challenges/dotNetApp/obj/Debug/netcoreapp3.1/dotNetApp.AssemblyInfoInputs.cache
+/Users/vinhdoan/challenges/dotNetApp/obj/Debug/netcoreapp3.1/dotNetApp.AssemblyInfo.cs
+/Users/vinhdoan/challenges/dotNetApp/obj/Debug/netcoreapp3.1/dotNetApp.dll
+/Users/vinhdoan/challenges/dotNetApp/obj/Debug/netcoreapp3.1/dotNetApp.pdb
+/Users/vinhdoan/challenges/dotNetApp/obj/Debug/netcoreapp3.1/dotNetApp.genruntimeconfig.cache
